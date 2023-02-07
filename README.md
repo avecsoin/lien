@@ -1,2 +1,2 @@
 # lien
-lien
+Collection de liens permanents.
