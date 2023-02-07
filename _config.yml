@@ -1,3 +1,5 @@
 title: Liens — Avecsoin
 plugins:
   - jekyll-redirect-from
+gems:
+  - jekyll-redirect-from
