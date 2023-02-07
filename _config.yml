@@ -3,3 +3,5 @@ plugins:
   - jekyll-redirect-from
 gems:
   - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
